@@ -49,6 +49,6 @@ AI-powered chatbot using large language models for automated responses.
 
 ## Contact
 
-📧 Angelinagrace2610@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 angelinagrace2610@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/angelina-grace-46a3031b0/)  
 📍 Irvine, CA
