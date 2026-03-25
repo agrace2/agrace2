@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hey, I'm Angelina 👋
 
-<!--
-**agrace2/agrace2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Power BI, Excel, SQL, Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+**Data Analyst** @ Technet Vision Indonesia
+- Consolidated 30+ Excel files into centralized data model
+- Built automated ETL pipelines reducing manual work by 80%+
+- Created Power BI dashboards and automated recurring reports
+
+**Assistant Data Analyst** @ Smart Health Diagnostics  
+- Analyzed billing data improving accuracy by 15%
+- Built dashboards identifying $45K in annual savings
+- Used SQL and Excel for revenue reporting
+
+---
+
+## Skills
+
+**Languages & Databases:** SQL, Python, R, PostgreSQL, SQL Server  
+**Tools:** Power BI, Excel, Jupyter, Git, Azure  
+**Analysis:** Statistical modeling, regression, hypothesis testing, predictive modeling
+
+---
+
+## Projects
+
+### Amazon Privacy Analysis
+Analyzed 5,000+ Amazon users to see if shopping behavior predicts privacy attitudes. Found that heavy spenders are 15% less likely to care about data privacy (p<0.001). Built using logistic regression in Python.
+
+[View project →](https://github.com/agrace2/amazon-privacy-analysis)
+
+### LLM Chatbot
+AI-powered chatbot using large language models for automated responses.
+
+[View project →](https://github.com/agrace2/Student-Performance-Analysis)
+
+---
+
+## Education
+
+**MS in Computer Science** - Data Analytics | Westcliff University  
+**BS in Actuarial Science** | UC Santa Barbara
+
+---
+
+## Contact
+
+📧 Angelinagrace2610@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+📍 Irvine, CA
