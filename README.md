@@ -31,12 +31,12 @@ Data Analyst | Power BI, Excel, SQL, Python
 ### Amazon Privacy Analysis
 Analyzed 5,000+ Amazon users to see if shopping behavior predicts privacy attitudes. Found that heavy spenders are 15% less likely to care about data privacy (p<0.001). Built using logistic regression in Python.
 
-[View project →](https://github.com/agrace2/amazon-privacy-analysis)
+[View project →](https://github.com/agrace2/amazon-privacy-project)
 
 ### LLM Chatbot
 AI-powered chatbot using large language models for automated responses.
 
-[View project →](https://github.com/agrace2/Student-Performance-Analysis)
+[View project →](https://github.com/agrace2/ai-governance-chatbot)
 
 ---
 
