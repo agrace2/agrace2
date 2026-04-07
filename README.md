@@ -1,6 +1,6 @@
 # Hey, I'm Angelina 👋
 
-Data Analyst | Power BI, Excel, SQL, Python
+Data Analyst | Power BI, Excel, SQL, Python, Tableau
 
 ---
 
